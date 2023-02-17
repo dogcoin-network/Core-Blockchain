@@ -18,7 +18,7 @@ sudo apt install docker && sudo apt install docker-compose
 ### Step 2: Clone the Github repository
 
 ```sh
-git https://github.com/dogcoin-network/Core-Blockchain.git
+git clone https://github.com/dogcoin-network/Core-Blockchain.git
 ```
 
 ### Step 3: Navigate into the directory where you've cloned this repository
